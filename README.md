@@ -16,4 +16,5 @@ Los diagramas están hechos en Mermaid, por lo que se visualizan directamente en
 ## Notas
 
 Los sistemas de IQ, semillas y nivel de corrupción aún están por definirse, por lo que los atributos y métodos de estas clases pueden cambiar en versiones posteriores.
+
 Mermaid no incluye un diagrama de casos de uso nativo, por lo que se representó con un diagrama de flujo siguiendo la notación UML (actor, sistema, include, extend).
