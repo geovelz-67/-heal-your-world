@@ -2,7 +2,7 @@
 
 Proyecto Integrador, Universidad de Colima, Facultad de Ingeniería Electromecánica (FIE), grupo 1°D.
 
-**Autores:** Velázquez García Geogan Alexander, Elías Moreno Alejandro
+**Autores:** Velázquez Geogan , Elías Alejandro 
 
 ## Contenido
 
