@@ -2,7 +2,7 @@
 
 Muestra las acciones que el jugador puede realizar en Heal Your World.
 
-mermaid
+```mermaid
 flowchart LR
     J([Jugador])
 
@@ -32,3 +32,4 @@ flowchart LR
     UC4 -. include .-> UC7
     UC6 -. include .-> UC5
     UC2 -. extend .-> UC1
+```
