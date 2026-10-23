@@ -6,8 +6,8 @@ Proyecto Integrador, Universidad de Colima, Facultad de Ingeniería Electromecá
 
 ## Contenido
 
-- [casos-de-uso.md](casos-de-uso.md): diagrama de casos de uso general. Muestra las acciones que el jugador puede realizar (explorar, combatir, recolectar, construir, purificar, expandir, gestionar inventario, mejorar personaje y guardar partida) y cómo se relacionan entre sí (include y extend).
-- [diagrama-de-clases.md](diagrama-de-clases.md): diagrama de clases del módulo de Purificación. Muestra las clases principales (Jugador, Inventario, Item, Semilla, Zona, Purificador, Textura), sus atributos, métodos y relaciones.
+- [casos-de-uso.md](docs/casos-de-uso.md): diagrama de casos de uso general. Muestra las acciones que el jugador puede realizar (explorar, combatir, recolectar, construir, purificar, expandir, gestionar inventario, mejorar personaje y guardar partida) y cómo se relacionan entre sí (include y extend).
+- [diagrama-de-clases.md](docs/diagrama-de-clases.md): diagrama de clases del módulo de Purificación. Muestra las clases principales (Jugador, Inventario, Item, Semilla, Zona, Purificador, Textura), sus atributos, métodos y relaciones.
 
 ## Herramienta
 
